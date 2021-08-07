@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "40113101120201004321211",
+      "name": "Lê Mạnh",
+      "price": "444444444444444",
+      "category": "Danh mục A"
+    },
+    {
+      "id": "40131320333002323433312",
+      "name": "Manh Le",
+      "price": "720000",
+      "category": "Danh mục A"
+    }
+  ],
+  "users": [
+    {
+      "email": "levanmanha2@gmail.com",
+      "password": "$2a$10$EEa5CXOdvtj1UapW4F0hf.Ns5Ugyh2W/pHxfGPNt8bsbtjFbiickS",
+      "name": "Lê Mạnh",
+      "id": 1
+    }
+  ]
+}
